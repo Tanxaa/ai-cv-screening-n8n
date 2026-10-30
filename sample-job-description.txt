@@ -1,0 +1,5 @@
+Junior Data Analyst, Retail Operations
+We need an analyst to build weekly KPI dashboards and automate reporting.
+Required: SQL, Python (pandas), Power BI or Tableau, clear communication
+with non-technical stakeholders.
+Desirable: ETL experience, API integration, retail or supply-chain exposure.
